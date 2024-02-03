@@ -1,0 +1,1 @@
+export 'entities/usuario.dart';
